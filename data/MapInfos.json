@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Normal Town","order":2,"parentId":2,"scrollX":929.1428571428571,"scrollY":1404},
+{"id":2,"expanded":true,"name":"World 1","order":1,"parentId":0,"scrollX":3190.285714285714,"scrollY":1894.2857142857142},
+{"id":3,"expanded":false,"name":"Castle","order":3,"parentId":1,"scrollX":1052.5714285714284,"scrollY":1428},
+{"id":4,"expanded":true,"name":"Tower","order":14,"parentId":2,"scrollX":1281.6,"scrollY":780},
+{"id":5,"expanded":false,"name":"Tower 1F","order":15,"parentId":4,"scrollX":1186.5,"scrollY":475.5},
+{"id":6,"expanded":false,"name":"Castle 1F","order":4,"parentId":3,"scrollX":1135.2,"scrollY":736.8},
+{"id":7,"expanded":false,"name":"Castle 2F","order":5,"parentId":3,"scrollX":640.8,"scrollY":487.2},
+{"id":8,"expanded":false,"name":"Castle 3F","order":6,"parentId":3,"scrollX":844.8,"scrollY":525.6},
+{"id":9,"expanded":false,"name":"Tileset","order":16,"parentId":0,"scrollX":915.4285714285713,"scrollY":975.4285714285713},
+{"id":10,"expanded":false,"name":"Workspace","order":18,"parentId":0,"scrollX":915.4285714285713,"scrollY":516},
+{"id":11,"expanded":false,"name":"Weapon Shop","order":7,"parentId":1,"scrollX":915.4285714285713,"scrollY":502.2857142857143},
+{"id":12,"expanded":false,"name":"Armor Shop","order":8,"parentId":1,"scrollX":0,"scrollY":0},
+{"id":13,"expanded":false,"name":"Item Shop","order":9,"parentId":1,"scrollX":801,"scrollY":487.5},
+{"id":14,"expanded":false,"name":"Inn 1F","order":10,"parentId":1,"scrollX":915.4285714285713,"scrollY":557.1428571428571},
+{"id":15,"expanded":false,"name":"Inn 2F","order":11,"parentId":14,"scrollX":801,"scrollY":487.5},
+{"id":16,"expanded":false,"name":"Bar","order":12,"parentId":1,"scrollX":640.8,"scrollY":390},
+{"id":17,"expanded":false,"name":"Tileset (Backup)","order":17,"parentId":9,"scrollX":1165.0909090909092,"scrollY":1141.0909090909092},
+{"id":18,"expanded":false,"name":"Abandoned House","order":13,"parentId":1,"scrollX":640.8,"scrollY":390},
+{"id":19,"expanded":true,"name":"World","order":19,"parentId":0,"scrollX":5126.4,"scrollY":3254.3999999999996},
+{"id":20,"expanded":false,"name":"MAP020","order":20,"parentId":19,"scrollX":5126.4,"scrollY":2889.6}
+]
